@@ -1,0 +1,14 @@
+# Node modules
+/node_modules/
+
+# Environment variables
+.env.local
+
+# Build and compiled files
+/build/
+/dist/
+/.next/
+*.log
+
+
+.vscode/
